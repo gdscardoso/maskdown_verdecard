@@ -5,6 +5,6 @@
 3. Deve ligar para Diogo
 4. **Nunca** deve ligar para o Guilherme.
 
-sql```
+```sql
 select * from autorizador.t411cont where cd_cc = :cd_cc;
 ```
